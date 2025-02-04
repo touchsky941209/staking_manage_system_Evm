@@ -1,4 +1,4 @@
-# Staking Project
+# Staking token Project
 
 This project is Staking management system on EVM.
 Token is ERC-20 standard.
