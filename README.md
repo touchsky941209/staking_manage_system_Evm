@@ -1,4 +1,4 @@
-# Staking token Project
+# Comprehensive Blockchain Wallet Locking System Project Specification
 
 This project is Staking management system on EVM.
 Token is ERC-20 standard.
